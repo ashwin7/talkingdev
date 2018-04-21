@@ -1,8 +1,8 @@
 +++
 title = "Solving hackerearth problems with Javascript on Windows"
 
-date = 2017-07-26
-lastmod = 2017-07-26
+date = 2017-07-27
+lastmod = 2017-07-27
 draft = false
 
 tags = ["Javascript", "NodeJS", "Programming"]

@@ -1,8 +1,8 @@
 +++
 title = "ToDo MVC - Compare different javascript frameworks"
 
-date = 2018-04-22
-lastmod = 2018-04-22
+date = 2018-04-21
+lastmod = 2018-04-21
 draft = false
 
 tags = ["Javascript", "TodoMVC", "Programming", "Frameworks"]
