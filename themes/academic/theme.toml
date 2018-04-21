@@ -1,0 +1,32 @@
+name = "Academic"
+license = "MIT"
+licenselink = "--"
+description = "---"
+homepage = "http://talkingdev.com"
+min_version = 0.30
+tags = ["academic",
+        "portfolio",
+        "responsive",
+        "student",
+        "personal",
+        "university",
+        "blog",
+        "minimal"
+        ]
+features = ["academic profile",
+            "research publication system",
+            "projects",
+            "blog",
+            "teaching",
+            "contact"
+            ]
+
+[author]
+  name = "Anonymous"
+  homepage = "https://TalkingDev.com"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
